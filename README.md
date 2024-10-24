@@ -16,7 +16,8 @@ Whole body bone scan image로부터 무릎 퇴행성 관절염 환자의 중증�
 
 **Data Set**
 
-205명의 Bone scan data (강남세브란스 전태주 핵의학과 교수님, 용인세브란스 병원의 정용휴 핵의학과 교수님
+205명의 Bone scan data (강남세브란스 전태주 핵의학과 교수님, 용인세브란스 병원 정용휴 핵의학과 교수님)
+
 Y, info, diaginfo로 구성
  - Y: 환자의 whole body bone scan data가 1024*256, uint16 type로 저장
  - info: file format, patient ID, data size, color type, 주입한 방사성 동위원소 등
