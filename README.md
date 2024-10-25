@@ -1,3 +1,5 @@
+**<Bone scan image classification of degenerative arthritis in knee joint patient using CNN>**
+
 **연구 동기**
 
 퇴행성 관절염(Osteoarthritis)은 뼈의 과증식, 윤활액 염증, 연골하 경화증, 관절 사이 좁아짐 등을 동반하는, 관절연골에서 발생하는 모든 퇴행성 질환을 일컫는다.
