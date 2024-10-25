@@ -1,4 +1,4 @@
-**<Bone scan image classification of degenerative arthritis in knee joint patient using CNN>**
+**<Bone scan image classification of degenerative arthritis in knee jointpatient using CNN>**
 
 **연구 동기**
 
